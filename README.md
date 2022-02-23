@@ -1,3 +1,1 @@
-My first readme
-
-collaboration allowed
+My first readme.
